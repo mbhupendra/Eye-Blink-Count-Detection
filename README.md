@@ -1,0 +1,2 @@
+# Eye-Blink-Count-Detection
+Here in the project, we will use the python language along with the OpenCV library for the algorithm execution and image processing respectively. The haar cascades we are going to use in the project are pretrained and stored along with the OpenCV library as haarcascade_frontalface_default.xml and haarcascade_eye_tree_eyeglasses.xml files. The project develops a basic understanding of the systems such as driver drowsiness detection, eye blink locks, eye detection, face detection and also the haar cascades usage with the OpenCV library.
